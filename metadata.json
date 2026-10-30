@@ -1,0 +1,6 @@
+{
+  "name": "ASCII Studio - Linux Image to ASCII Converter",
+  "description": "Fast and versatile ASCII art generator and converter designed for Linux with color palettes, Floyd-Steinberg dithering, custom character sets, interactive crop/resize, and ANSI shell exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
